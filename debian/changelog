@@ -1,3 +1,9 @@
+libsdl2 (2.0.4+dfsg1-3ubports3) UNRELEASED; urgency=medium
+
+  * Remove mir patch 
+
+ -- Marius Gripsgard <marius@ubports.com>  Thu, 07 Dec 2017 06:37:47 +0100
+
 libsdl2 (2.0.4+dfsg1-2ubports2) xenial; urgency=medium
 
   * Rebuild against libsndio6.1.
