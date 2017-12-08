@@ -1,3 +1,9 @@
+libsdl2 (2.0.4+dfsg1-3ubports4) xenial; urgency=medium
+
+  * Add --disable-mir-shared to build conf
+
+ -- Marius Gripsgard <marius@ubports.com>  Fri, 08 Dec 2017 02:06:11 +0100
+
 libsdl2 (2.0.4+dfsg1-2ubports2) xenial; urgency=medium
 
   * Rebuild against libsndio6.1.
